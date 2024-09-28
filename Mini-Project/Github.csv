@@ -1,11 +1,108 @@
-,Name,Description,Language,Profile Photo,Stars Gained,Last Updated,Topics
-0,WebDevsCom/webDevsCom,😍 All kinds of resources for Developers 🔱 in one place.,JavaScript,,689,289,
-1,jakartaee/jakarta.ee,"Jakarta EE is the future of cloud native Java. Jakarta EE open source software drives cloud native innovation, modernizes enterprise appl…",HTML,,161,289,
-2,WebDev-ShakoHS/WebDev,Repository used for Web Development at Shakopee High School,JavaScript,,3,289,
-3,mozilla/webdev,Mozilla Webdev tools and pages,JavaScript,,51,289,
-4,khushi-purwar/WebDev-ProjectKart,The repository contains the list of awesome & cool web development beginner-friendly projects!,JavaScript,,140,289,
-5,Rekseto/PolishWebDevForBeginners,Polish webdevs helps beginners,118,,118,289,
-6,ruancarvalho/webdevacademy,Demonstration Projects,HTML,,35,289,
-7,devalot/webdev,WebDev: Web Development Course,JavaScript,,8,289,
-8,resilia-br/anotacoes,Projeto utilizado no curso webdev (módulo 2),HTML,,6,289,
-9,priyansh70/Dot-Batch_WebDevelopment-Notes,Dot Batch Repository Which Contains All The Code and Handwritten Notes,HTML,,289,289,
+Name,Description,Language,Stars Gained,Last Updated,Issues,Forks,Pull Requests
+microsoft/Web-Dev-For-Beginners,"24 Lessons, 12 Weeks, Get Started as a Web Developer",JavaScript,83.1k,4 days ago,49,12.3k,59
+GoogleChrome/web.dev,"The frontend, backend, and content source code for web.dev",Nunjucks,3.6k,on Mar 13,1,1.6k,42
+dypsilon/frontend-dev-bookmarks,Manually curated collection of resources for frontend web developers.,42.3k,42.3k,on May 21,23,5.1k,101
+FormidableLabs/webpack-dashboard,A CLI dashboard for webpack dev server,JavaScript,13.9k,on Aug 12,31,365,8
+alibaba/web-editor,please use https://uiauto.dev instead,JavaScript,1.2k,on May 7,94,305,2
+markodenic/web-development-resources,Awesome Web Development Resources.,HTML,7.2k,on Aug 20,6,1.2k,7
+bradtraversy/design-resources-for-developers,"Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",58.4k,58.4k,5 days ago,0,11.5k,1
+judygab/web-dev-projects,Projects repo for tutorials for my YouTube Channel,JavaScript,2k,on Jul 1,13,2.6k,14
+webpack/webpack-dev-server,Serves a webpack app. Updates the browser on changes. Documentation https://webpack.js.org/configuration/dev-server/.,JavaScript,7.8k,yesterday,18,1.4k,15
+pnp/sp-dev-fx-webparts,"SharePoint Framework web part, Teams tab, personal app, app page samples",TypeScript,2k,2 days ago,22,3.8k,12
+pingdotgg/uploadthing,File uploads for modern web devs,TypeScript,4.1k,yesterday,33,303,10
+responsively-org/responsively-app,A modified web browser that helps in responsive web development. A web developer's must have dev-tool.,JavaScript,22.4k,3 days ago,175,1.1k,42
+CodeWithHarry/Sigma-Web-Dev-Course,Source Code for Sigma Web Development Course,JavaScript,5.8k,on Aug 16,77,1.8k,42
+bmorelli25/Become-A-Full-Stack-Web-Developer,Free resources for learning Full Stack Web Development,17.2k,17.2k,on Jun 18,15,2.7k,34
+btholt/intro-to-web-dev-v2,"Intro to Web Dev, v2",JavaScript,1.6k,"on Feb 9, 2023",6,191,43
+DevExpress/DevExtreme,HTML5 JavaScript Component Suite for Responsive Web Development,JavaScript,1.8k,18 hours ago,1,594,49
+stackblitz/webcontainer-core,Dev environments. In your web app.,3.8k,3.8k,"on Apr 25, 2023",333,145,0
+Knowre-Dev/WebDevCurriculum,Knowre 웹개발 커리큘럼,HTML,1.1k,on Apr 11,0,601,3
+flet-dev/website,flet.dev project website,JavaScript,68,13 hours ago,7,366,3
+academind/100-days-of-web-development,Supplementary resources for our complete web development course (https://acad.link/web-dev).,887,887,"on Aug 29, 2023",11,1.1k,7
+dongweiming/web_develop,《Python Web开发实战》书中源码,Python,1.2k,"on Oct 4, 2023",2,536,1
+Ayushparikh-code/Web-dev-mini-projects,The repository contains the list of awesome✨ & cool web development beginner-friendly✌️ projects!,HTML,2.6k,8 days ago,29,1.1k,8
+nicothin/web-development,"Инструменты, настройки, шпаргалки, для веб-технолога",Shell,856,"on Feb 22, 2023",0,512,0
+webinstall/webi-installers,Primary and community-submitted packages for webinstall.dev,Shell,1.9k,11 days ago,34,204,17
+honojs/website,Repository for hono.dev,CSS,78,3 days ago,14,262,13
+zero-to-mastery/complete-web-developer-manual,All resources and notes from the Complete Web Developer: Zero to Mastery course,2.3k,2.3k,on Apr 25,1,937,4
+keshavgbpecdelhi/Web-Development,"Here you will find different web development mini projects which are made up of HTML, CSS & little bit of JavaScript. Do you have any suc…",JavaScript,1.3k,on Aug 11,7,388,26
+paddingme/Front-end-Web-Development-Interview-Question,前端开发面试题大收集，前端面试集锦 ❤️ 💝 💘,HTML,6.5k,on Apr 23,11,1.2k,5
+shovanch/fullstack-web-developer-path,📚 A learning path for Full-stack web development,3.4k,3.4k,"on Aug 15, 2023",0,629,6
+devhubapp/devhub,"TweetDeck for GitHub - Filter Issues, Activities & Notifications - Web, Mobile & Desktop with 99% code sharing between them",TypeScript,9.7k,20 days ago,48,815,8
+cytle/wechat_web_devtools,微信开发者工具(微信小程序)linux完美支持,HTML,2.7k,"on Sep 14, 2020",89,429,1
+RitikPatni/Front-End-Web-Development-Resources,This repository contains content which will be helpful in your journey as a front-end Web Developer,4.7k,4.7k,on Jun 24,6,655,18
+devopsdays/devopsdays-web,This is the website for devopsdays,HTML,173,13 hours ago,48,664,10
+webpack/webpack-dev-middleware,A development middleware for webpack,JavaScript,2.5k,23 hours ago,4,377,3
+hjwp/Book-TDD-Web-Dev-Python,Book - TDD web dev with Python,Python,484,2 days ago,14,174,5
+golang/website,[mirror] Home of the go.dev and golang.org websites,HTML,376,8 days ago,0,328,0
+apptension/developer-handbook,An opinionated guide on how to become a professional Web/Mobile App Developer.,5.9k,5.9k,on Feb 16,3,650,8
+andrews1022/web-development-course-list,A list of Udemy courses from Brad Traversy's Web Development 2021 video,2.6k,2.6k,on Aug 5,1,445,4
+ballerina-platform/ballerina-dev-website,Dev version of the ballerina.io website,HTML,157,6 hours ago,87,172,4
+nvim-tree/nvim-web-devicons,lua `fork` of vim-web-devicons for neovim,Lua,2k,7 days ago,24,184,3
+SFLAQiu/web-develop,🌱《大话WEB开发》WEB开发相关经验总结分享,1.2k,1.2k,on Jun 16,0,118,0
+ballerina-platform/ballerina-dev-website,Dev version of the ballerina.io website,HTML,157,3 hours ago,86,172,3
+nvim-tree/nvim-web-devicons,lua `fork` of vim-web-devicons for neovim,Lua,2k,7 days ago,24,184,3
+SFLAQiu/web-develop,🌱《大话WEB开发》WEB开发相关经验总结分享,1.2k,1.2k,on Jun 16,0,118,0
+thewhitetulip/web-dev-golang-anti-textbook,Learn how to write webapps without a framework in Go.,Go,3.2k,"on Oct 23, 2023",10,279,1
+donnemartin/dev-setup,"macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime T…",Python,6.1k,"on Feb 27, 2023",23,1.1k,11
+adamschwartz/web.scraper.workers.dev,Scrape websites for text by CSS selector.,JavaScript,588,on Feb 15,0,405,0
+faheemzunjani/Coursera-WebDev-JHU-Assignments,"This repository contains my solutions to the Module - 2,3,4 and 5 Coding Assignments for HTML, CSS, JavaScript for Web Developers Course …",JavaScript,69,on Jan 7,0,504,1
+DevTips/Parallax-on-the-Web-DevTips-,"The code that accompanies the video series on YouTube called ""Parallax on the Web"" — https://www.youtube.com/playlist?list=PLqGj3iMvMa4Iy…",CSS,346,"on Sep 30, 2020",4,242,13
+LaunchCodeEducation/java-web-dev-exercises,"demos, exercise sets, and studios for java-web-development",Java,10,"on Jun 15, 2023",0,1.9k,7
+hotwired/turbo-site,turbo.hotwired.dev web site,SCSS,83,2 days ago,4,100,24
+EthanRBrown/web-development-with-node-and-express,"Companion repository to Web Development With Node and Express, first edition.",JavaScript,1k,"on Sep 2, 2020",30,502,13
+neos/neos-development-collection,"The unified repository containing the Neos core packages, used for Neos development.",PHP,260,yesterday,455,221,93
+anshulrgoyal/rust-web-developer-roadmap,Roadmap to becoming a Rust Web Developer in 2022,Rust,1.8k,"on Apr 27, 2023",5,114,0
+triggerdotdev/jsonhero-web,"JSON Hero is an open-source, beautiful JSON explorer for the web that lets you browse, search and navigate your JSON files at speed. 🚀. B…",TypeScript,9.4k,on Aug 22,59,510,7
+iam-veeramalla/go-web-app-devops,Complete DevOps implmentation for a go web app,HTML,171,on Aug 8,3,486,2
+jlem/WebDevChallenge,A hopefully ever-growing list of web-development related challenges,805,805,"on Feb 18, 2016",3,88,0
+symfony/web-profiler-bundle,Provides a development tool that gives detailed information about the execution of any request,Twig,2.2k,yesterday,0,54,0
+naveenjujaray/DeveloperFolio,Flutter web - DeveloperFolio template,Dart,234,"on Oct 27, 2022",1,84,0
+WebDevsCom/webDevsCom,😍 All kinds of resources for Developers 🔱 in one place.,JavaScript,690,"on Oct 5, 2023",4,86,16
+semmypurewal/LearningWebAppDev,"Examples from the book ""Learning Web Application Development"".",JavaScript,269,"on Oct 2, 2020",17,356,2
+matschik/component-party.dev,🎉 Web component JS frameworks overview by their syntax and features,JavaScript,2.6k,19 days ago,15,227,10
+sanjib-sen/WebLaTex,A complete alternative for Overleaf with VSCode + Web + Git Integration + Copilot + Grammar & Spell Checker + Live Collaboration Support.…,TeX,974,on May 23,8,277,2
+tanaypratap/teamtanay.jobchallenge.dev,The web repository for all things #teamtanayjobchallenge,JavaScript,132,"on Jan 12, 2023",274,430,45
+khushi-purwar/WebDev-ProjectKart,The repository contains the list of awesome & cool web development beginner-friendly projects!,JavaScript,140,on Feb 24,1,199,1
+jieyou/remote_inspect_web_on_real_device,各种真机远程调试方法汇总——“真机远程调试”（remote inspect web on real device），是指用桌面电脑（PC或MAC）远程连接上移动设备，通过类似Chrome浏览器开发人员工具的界面，来调试移动设备上运行的网页,1.6k,1.6k,"on Nov 1, 2016",5,285,1
+globocom/secDevLabs,A laboratory for learning secure web and mobile development in a practical manner.,PHP,888,2 days ago,11,423,9
+DhanushNehru/Ultimate-Web-Development-Resources,A collection of web development resources for most of your development needs,HTML,422,2 days ago,64,260,58
+angelabauer/web-development-bootcamp,https://www.appbrewery.co/p/web-development-course-resources/,HTML,351,on May 24,0,201,0
+StevenSLXie/Tutorials-for-Web-Developers,"Tutorials for web developers including bash scripting, Linux commands, MongoDB. Actively updating.",897,897,"on Jan 10, 2021",8,184,0
+twhite96/js-dev-reads,A list of books 📚and articles 📝 for the discerning web developer to read.,4k,4k,"on Aug 18, 2022",0,264,0
+lostdesign/webgems,A curated list of resources for devs and designers. Join me on devcord.com if you are up for a chit chat :),Vue,4.6k,"on Jul 21, 2022",20,171,17
+Anuj-Kumar-Sharma/Web-Development-Course,Public Repository for Web Development Course for Beginners,HTML,250,on Jun 28,4,220,10
+priyansh70/Dot-Batch_WebDevelopment-Notes,Dot Batch Repository Which Contains All The Code and Handwritten Notes,HTML,289,"on Nov 11, 2023",1,157,1
+bwdbooks/nodejs-mongodb-angularjs-web-development,"For the Node.js, MongoDB and AngularJS Web Development Book",JavaScript,318,"on Dec 29, 2022",7,293,1
+noahbuscher/inspire,Collection of frontend dev and web design links 💡,1.2k,1.2k,on Mar 15,0,80,3
+chromeos/chromeos.dev,"chromeOS.dev is the digital home for all things ChromeOS. Learn how to adapt and optimize your existing apps to work on ChromeOS, the suc…",TypeScript,247,yesterday,29,79,4
+sigstore/sigstore-website,Codebase for sigstore.dev,Vue,27,5 days ago,10,76,8
+theajack/disable-devtool,"Disable web developer tools from the f12 button, right-click and browser menu",TypeScript,1.8k,yesterday,48,173,0
+Piasy/WebRTC-Docker,Out-of-the-box docker images for AppRTC dev/test purpose.,Shell,132,"on Mar 28, 2021",2,87,1
+xguru/WebDevTutorial,대학생을 위한 웹 개발 공부용 체크리스트,343,343,"on Mar 18, 2020",1,77,0
+ihucos/counter.dev,Web Analytics made simple,JavaScript,921,on Jun 5,38,39,2
+manuarora700/simple-developer-portfolio-website,✈️ A simple portfolio for developers to showcase their skills and projects. Blog and tutorial at freeCodeCamp.,JavaScript,379,"on Oct 1, 2023",0,179,1
+caiobiodere/cordova-template-framework7-vue-webpack,Framework7 - Vue - Webpack Cordova Template with Webpack Dev Server and Hot Module Replacement,JavaScript,621,"on Jan 8, 2020",7,154,0
+anandb7248/Web_Development_Bootcamp,"Self study of The Complete Web Development Bootcamp course on Udemy, taught by Angela Yu.",HTML,312,"on Jan 5, 2023",0,138,91
+WendellAdriel/dev-curriculum,Instant web curriculum generator for developers,CSS,291,"on Mar 12, 2017",2,77,0
+PacktPublishing/Web-Development-with-Django,Learn to build modern web applications with a Python-based framework,HTML,188,"on Jul 29, 2023",17,222,2
+goggle/Coursera_HTML-CSS-Javascript-for-Web-Developers,"Solutions to the assignments of the Coursera course ""HTML, CSS, and Javascript for Web Developers"" by Johns Hopkins University.",HTML,118,"on Feb 14, 2022",1,576,0
+MicrosoftDocs/edge-developer,Developer documentation for Edge.,HTML,381,20 hours ago,16,507,10
+GoogleChromeLabs/devwebfeed,Firehose of team++ resources,JavaScript,132,yesterday,11,46,29
+GoesToEleven/golang-web,THIS IS A DEPRECATED REPO - PLEASE NOW SEE MY REPO: golang-web-dev,Go,167,"on Apr 25, 2016",2,102,0
+microsoft/azure-devops-extension-sample,Sample web extension for Azure DevOps,TypeScript,240,23 days ago,63,157,3
+cdk-dev/website,Website for cdk.dev,TypeScript,33,on Jun 27,1,45,1
+JSLegendDev/2d-portfolio-kaboom,Web dev portfolio as a 2D game,JavaScript,156,on Jun 11,2,60,0
+reactjs/es.react.dev,React documentation website in Spanish / Documentación del sitio web de React en Español,TypeScript,282,5 days ago,2,288,8
+ghoshsuman845/Web_Dev_Batch_Jan23,Code for web dev Jan batch,HTML,90,"on Jan 29, 2023",0,54,0
+rudra016/WebDev-OpenSource,This is a Repository where different types of Front - End Projects are present. If you have any front end project or are eager to improve…,JavaScript,84,on Jun 17,31,116,5
+rishim9816/Web-Development-Project,"The project is a college prediction system with a login page and predictor system. The project works on HTML, CSS, PHP, MySQL on Apache s…",PHP,174,"on Aug 1, 2023",1,126,0
+virajkulkarni14/WebDeveloperSecurityChecklist,A checklist of important security issues you should consider when creating a web application.,416,416,"on May 10, 2021",2,58,2
+wwebjs/wwebjs.dev,Home to the wwebjs.dev site and official whatsapp-web.js guide,JavaScript,87,on Jul 23,1,203,3
+rishipurwar1/The-Web-Developer-Bootcamp-2020,The Web Developer Bootcamp 2022 Exercise's Solution made by me,404,404,"on Jan 30, 2023",1,157,9
+jedi4ever/devopsdays-webby,Website code for the devopsdays website,HTML,49,"on Oct 19, 2022",0,152,3
+google/tamperchrome,Tamper Dev is an extension that allows you to intercept and edit HTTP/HTTPS requests and responses as they happen without the need of a p…,TypeScript,4.2k,on Jun 18,39,216,16
+btholt/pull-requests,A sample repo for the Intro to Web Dev course for Frontend Masters,JavaScript,20,on Feb 21,1,907,350
+nandanmen/NotANumber,An interactive blog on computer science and web dev 💡,TypeScript,1.2k,"on Nov 7, 2023",3,56,1
+devise-security/devise-security,"A security extension for devise, meeting industry-standard security demands for web applications.",Ruby,584,on Feb 22,26,150,3
+nitin42/react-perf-devtool,A browser developer tool extension to inspect performance of React components.,JavaScript,2.3k,"on Dec 7, 2022",8,53,22
