@@ -4,7 +4,6 @@ import pandas as pd
 from selenium.webdriver.chrome.service import Service
 from selenium.common.exceptions import TimeoutException
 import time as sleep
-
 # webdriver can be downloaded from
 # https://sites.google.com/chromium.org/driver/downloads/versionselection?authuser=0
 def Scrap():
@@ -22,19 +21,13 @@ def Scrap():
         driver.get(f'https://github.com/{i}')
         content = driver.page_source
 
-        soup2 = BeautifulSoup(content, features="html.parser")
-                # print(soup)  
+        soup2 = BeautifulSoup(content, features="html.parser") 
         for a in soup2.findAll("ul", attrs={"class":"UnderlineNav-body"}):
-            print(a)
+            # print(a)
             issuesCount = a.find("span",attrs = {"id":"issues-repo-tab-count"}) 
             PullRequestsCout = a.find("span",attrs = {"id":"pull-requests-repo-tab-count"})
-            # if issuesCount != None and PullRequestsCout != None:
             Issues.append(issuesCount.text) if issuesCount else Issues.append(0)
             PullRequests.append(PullRequestsCout.text) if PullRequestsCout else PullRequests.append(0)
-            # else:
-            #     Issues.append(0)
-            #     PullRequests.append(0)
-
         ForksCount = soup2.find("span",attrs={"id":"repo-network-counter"})
         if ForksCount != None:
             Forks.append(ForksCount.text)

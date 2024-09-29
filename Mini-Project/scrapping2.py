@@ -16,8 +16,8 @@ Description = []
 Language = []
 Stars = []
 LastUpdated = []
-minPage = 10
-maxPage = 14
+minPage = 43
+maxPage = 47
 difference = maxPage-minPage
 if difference <=4:
     for i in range(minPage,maxPage):
@@ -26,22 +26,23 @@ if difference <=4:
         content = driver.page_source
 
         soup = BeautifulSoup(content, features="html.parser")
-        # print(soup)
         for a in soup.findAll("div", attrs={"class": "flszRz"}):
-            print(a)
+            # print(a)
             RepoName = a.find("a",attrs = {"class":"dIlPa"})
             RepoDescription = a.find("span",attrs = {"class":"cWNlgR"})
             language = a.find("li",attrs = {"class":"iyzdzM"})
             StarsGained = a.find("span",attrs = {"class":"hWqAbU"})
             Update = a.find("div",attrs = {"class":"liVpTx"})
+            if language.text == StarsGained.text:
+                language.string = 'no language'
+                # print(language.text)    
             if RepoName != None and RepoDescription != None and language != None and StarsGained != None and Update != None:
                 Name.append(RepoName.text)
                 Description.append(RepoDescription.text)
-                Language.append(language.text)
+                Language.append(language.text) #if language == StarsGained else language.append("No")
                 Stars.append(StarsGained.text)
                 LastUpdated.append(Update.text)
-            # if(len(Name)==3):
-            #     break    
+    driver.quit()                 
     df = pd.DataFrame({"Name": Name, "Description":Description,"Language":Language,"Stars Gained":Stars,"Last Updated":LastUpdated})
     df.to_csv("Github2.csv", encoding="utf-8",index=False,mode="w") 
     InnerScrapping.Scrap() 
