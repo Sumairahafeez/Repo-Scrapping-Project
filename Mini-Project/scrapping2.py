@@ -2,7 +2,7 @@ from selenium import webdriver
 from bs4 import BeautifulSoup
 import pandas as pd
 from selenium.webdriver.chrome.service import Service
-import time as sleep
+import time
 import Innerscrappin2
 import InnerScrapping
 service = Service(executable_path="F:\\3rd Sem\\DSA Lab\\Week 3\\chromedriver-win64\\chromedriver.exe")
@@ -16,15 +16,13 @@ Description = []
 Language = []
 Stars = []
 LastUpdated = []
-minPage = 43
-maxPage = 47
+minPage = 75
+maxPage = 100
 difference = maxPage-minPage
-if difference <=4:
+if difference <=25:
     for i in range(minPage,maxPage):
-        driver.get(f'https://github.com/search?q=web+dev&type=repositories&p={i}')
-
+        driver.get(f'https://github.com/search?q=b&type=repositories&p={i}')
         content = driver.page_source
-
         soup = BeautifulSoup(content, features="html.parser")
         for a in soup.findAll("div", attrs={"class": "flszRz"}):
             # print(a)
@@ -42,6 +40,7 @@ if difference <=4:
                 Language.append(language.text) #if language == StarsGained else language.append("No")
                 Stars.append(StarsGained.text)
                 LastUpdated.append(Update.text)
+            time.sleep(0)    
     driver.quit()                 
     df = pd.DataFrame({"Name": Name, "Description":Description,"Language":Language,"Stars Gained":Stars,"Last Updated":LastUpdated})
     df.to_csv("Github2.csv", encoding="utf-8",index=False,mode="w") 
